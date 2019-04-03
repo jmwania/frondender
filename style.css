@@ -165,10 +165,17 @@ h2 {
 }   
 .footer-links  li a {
     color: #9d9d9d;
+    font-size: .8em;
     
-
 } 
-
+nav ul {
+    position: fixed;
+    width: 60%;
+    top: 0;
+    right: 0;
+    text-align: left;
+    background: rgb(36, 41,44);
+}
 
 
 
