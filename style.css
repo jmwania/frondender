@@ -299,7 +299,12 @@ nav ul li a {
 
     }
     nav ul li a:hover {
-        background-color: inherit;
+        background-color: inherit; 
+
+    }
+    .scroll {
+        width: 30px;
+        animation: move 2s infinite alternate;
         
     }
 
