@@ -15,4 +15,10 @@ var btt = document.getElementById("back-to-top"),
  window.addEventListener("scroll", function(event) {
      scrollPos = body.scrollTop || docElem.scrollTop;
      btt.className = (scrollPos > offset) ? "visible"? : ""; 
+// Add click event listeners
+btt.addEventListener("click", function(event) {
+    event.preventDefault();
+
+    
+})
  });
