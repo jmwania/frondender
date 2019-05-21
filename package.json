@@ -4,13 +4,13 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "deploy": "gh-pages frontender"
+    "deploy": "gh-pages -d Frondender"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jmwania/frondender.git"
   },
-  "author": "Josphat Mwania",
+  "author": "",
   "license": "ISC",
   "homepage":"https://jmwania.github.io/frontender/",
   "bugs": {
