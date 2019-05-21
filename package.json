@@ -1,0 +1,20 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages frontender"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmwania/frondender.git"
+  },
+  "author": "Josphat Mwania",
+  "license": "ISC",
+  "homepage":"https://jmwania.github.io/frontender/",
+  "bugs": {
+    "url": "https://github.com/jmwania/frondender/issues"
+  },
+  "homepage": "https://github.com/jmwania/frondender"
+}
