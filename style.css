@@ -53,6 +53,7 @@ h1, .subhead {
     margin-top: 15%;
     padding: 4em 0 2em;
     border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
     transform: skewY(-2deg);
     
 }
@@ -324,6 +325,8 @@ nav ul li a {
     border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;
     border-top-left-radius: 50px;
+    margin-top: 5;
+    overflow: hidden;
 }
 #back-to-top {
     position: fixed;
@@ -341,8 +344,9 @@ nav ul li a {
     box-shadow: 0 0 2em o rgba(0, 0, 0, .25);
 }
    #back-to-top:hover {
-       background-color: #fff;
+       background-color: rgb(112, 22, 22);
        padding: 1em 3em;
+       box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
    }
 
 #back-to-top.visible {
